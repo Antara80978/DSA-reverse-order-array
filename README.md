@@ -1,6 +1,22 @@
 # DSA - Reverse Order Array
 
 This project explains the **reverse order logic** of an array in **Java** and **Python**.
+# Array Reverse - DSA Solution
+
+This repository contains the **Data Structures and Algorithms (DSA)** solution to reverse an array in optimal time.  
+Languages: Python / Java / C++  
+Use cases: Coding interviews, practice problems, learning algorithm fundamentals.
+
+## Features
+- Simple and clean code
+- Explanation of the approach
+- Time complexity: O(n)
+- Space complexity: O(1)
+
+## How to run
+```bash
+python reverse_array.py
+
 
 ---
 
